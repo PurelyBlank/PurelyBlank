@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PurelyBlank
-- 👀 I’m interested in field of computers and their applicabilities
-- 🌱 I’m currently learning studying Computer Science
+- 👀 I’m interested in Software Engineering but not limited to any other positions
+- 🌱 I’m currently learning majoring in Computer Science
 - 📫 How to reach me: bwang.noah@gmail.com
 
 <!---
