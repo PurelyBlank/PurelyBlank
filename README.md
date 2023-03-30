@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PurelyBlank
+- 👋 Hi, I’m Noah, aka @PurelyBlank
 - 👀 I’m interested in Software Engineering but not limited to any other positions
 - 🌱 I’m currently learning majoring in Computer Science
 - 📫 How to reach me: bwang.noah@gmail.com
