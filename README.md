@@ -1,5 +1,5 @@
 - 👋 Hi, I am Botao Wang (I go by Noah), aka @PurelyBlank
-- 👀 I’m interested in Software Engineering but not limited to any other positions
+- 👀 I’m interested in Software Engineering and IT related work!
 - 🌱 I’m currently learning majoring in Computer Science
 - 📫 How to reach me: bwang.noah@gmail.com
 
