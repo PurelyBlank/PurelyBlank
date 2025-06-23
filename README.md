@@ -1,6 +1,6 @@
 - 👋 Hi, I am Botao Wang (I go by Noah), aka @PurelyBlank
 - 👀 I’m interested in Software Engineering and IT related work!
-- 🌱 I’m a June 2025 Computer Science major
+- 🌱 I’m a June 2025 Computer Science graduate
 - 📫 How to reach me: bwang.noah.work@gmail.com
 
 <!---
